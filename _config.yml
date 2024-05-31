@@ -1,6 +1,7 @@
 # Base configs
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
+baseurl: "marapauline.github.io"
 
 # UI configs
 title: "Shots by Pushpinder Pal Singh"
